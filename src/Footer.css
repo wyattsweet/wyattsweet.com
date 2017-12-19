@@ -1,9 +1,17 @@
 .footer {
-  height: 130px;
   width: 400px;
   left: calc(50% - 200px);
   position: absolute;
   bottom: 20px;
-  background: rgba(43, 43, 43, 0.6);
-  border-radius: 20px;
+  background: #7c7c7c;
+  border-radius: 8px;
+}
+
+.socialIconsList {
+  margin: 5%;
+  text-align: center;
+}
+
+.socialIconsList a {
+  margin: 0 5%;
 }

@@ -14,7 +14,7 @@ a {
 a,
 a:visited,
 a:focus {
-  color: #2b2b2b;
+  color: #bc9d9d;
 }
 
 h1 {
@@ -55,10 +55,15 @@ main p {
   text-align: left;
 }
 
+svg {
+  fill: #bc9d9d;
+  height: 55px;
+}
+
 .mainWrapper {
   margin: 0 auto;
   max-width: 1535px;
-  padding: 1% 7% 150px;
+  padding: 0 7% 150px;
   position: relative;
   min-height: calc(100vh - 150px);
 }
@@ -86,12 +91,17 @@ main p {
   color: #f46127; 
 }
 
-.menuItem {
-  border-bottom: 3px solid #afafaf;
+a.menuItem {
+  border-bottom: 3px solid #a3a3a3;
+  color: #2b2b2b;
   display: inline-block;
   font-size: 36px;
   font-weight: 600;
   margin-left: 1%;
+}
+
+.menuItem:hover {
+  border-bottom-color: #7c7c7c;
 }
 
 .menuList li {
