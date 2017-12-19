@@ -11,6 +11,7 @@ a {
   text-decoration: none;
 }
 
+a,
 a:visited,
 a:focus {
   color: #2b2b2b;
@@ -57,9 +58,9 @@ main p {
 .mainWrapper {
   margin: 0 auto;
   max-width: 1535px;
-  padding: 1% 7% 120px;
+  padding: 1% 7% 150px;
   position: relative;
-  min-height: calc(100vh - 120px);
+  min-height: calc(100vh - 150px);
 }
 
 .menuList {

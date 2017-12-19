@@ -11,7 +11,7 @@ class About extends Component {
         <main>
           <p>
             Hello! I&apos;m a software developer and maker of cool stuff. I love
-            crafting user interface and creating beautiful, rich user
+            crafting user interface and creating beautiful, rich
             experiences. From design to deployment, I&apos;m interested in all
             aspects of the software development process. In addition to coding
             I&apos;m a family man, music enthusiast and home improvement project
