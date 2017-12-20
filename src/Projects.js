@@ -12,7 +12,7 @@ const Projects = () => {
       <Header />
       <main>
         <h1>Projects</h1>
-        <p>More coming soon</p>
+        <p className="comingSoon">more coming soon</p>
         {projectData.projects.map(project => (
           <ProjectBlock {...project} key={project.name} />
         ))}
