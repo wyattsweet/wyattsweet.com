@@ -27,7 +27,7 @@ class About extends Component {
             family man, music enthusiast and home improvement project expert.
           </p>
           <p>
-            You want to chat? I would love to hear from you! Please feel free to{' '}
+            Want to chat? I would love to hear from you! Please feel free to{' '}
             <a href="mailto:wyattsweet@gmail.com">email me</a>. If you&apos;re
             looking for my resume, you can find that{' '}
             <a href="/assets/wsweet_resume.pdf">right here.</a>{' '}
