@@ -4,18 +4,18 @@
       "name": "wyattsweet.com",
       "img_src": "/assets/portfolio/wyattsweet.png",
       "description":
-        "My personal site where I'm collecting the projects I'm working on and writing about topics I'm interested in."
+        "My personal site where I'm collecting information on projects I'm working on and writing about topics I'm interested in."
     },
     {
       "name": "Thredup",
       "img_src": "/assets/portfolio/tup-1.png",
       "description":
-        "As a Sofware Engineer at thredUP, I worked on the UI for the company's main site. I worked as part of a fast paced, cross-functional agile team developing on our large scale, highly trafficed react app. I built new features and maintaitned existing ones. In addition to building new features, I was responsible for fixing cross-browser, cross-device UI bugs and I refactored large sections of legacy code."
+        "As a Software Engineer at thredUP, I worked on the UI for the company's main site. I worked as part of a fast paced, cross-functional team developing on our large scale, heavily trafficked React/Redux app. I built new features and maintained existing ones. In addition to building new features, I was responsible for fixing cross-browser, cross-device UI bugs and I refactored large sections of legacy code."
     },
     {
       "name": "Salesforce",
       "img_src": "/assets/portfolio/desk.png",
-      "description": "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code to help customers migrate data over to the platform. I solved a variety of technical issues related to front and back end code. And I utilized HTML, CSS and JavaScript to customize Desk support centers for large clients."
+      "description": "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code to help customers migrate their data over to the desk.com platform. I solved a variety of technical issues related to front and back end code and I utilized HTML, CSS and JavaScript to customize Desk support centers for large clients."
     }
   ]
 }

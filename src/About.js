@@ -20,17 +20,17 @@ class About extends Component {
         <Header />
         <main>
           <p>
-            Hello! I&apos;m a software developer and maker of cool stuff. I love
-            crafting user interface and creating beautiful, rich experiences.
-            From design to deployment, I&apos;m interested in all aspects of the
-            software development process. In addition to coding I&apos;m a
-            family man, music enthusiast and home improvement project expert.
+            Hello! I&apos;m a software engineer in Oakland, CA. I&apos;m
+            passionate about JavaScript, React and all things related to
+            software development on the web. I like writing code that is well
+            tested, performant and maintainable. I&apos;m passionate about
+            delivering beautiful, rich user experiences and building awesome
+            stuff.
           </p>
           <p>
-            Want to chat? I would love to hear from you! Please feel free to{' '}
-            <a href="mailto:wyattsweet@gmail.com">email me</a>. If you&apos;re
-            looking for my resume, you can find that{' '}
-            <a href="/assets/wsweet_resume.pdf">right here.</a>{' '}
+            In addition to coding I&apos;m a family man, music enthusiast and a
+            home improvement expert. If you would like to see me resume, you can
+            find it <a href="/assets/wsweet_resume.pdf">right here</a>.
           </p>
           <div className="techIconBlock">
             <Html />
