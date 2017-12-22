@@ -14,8 +14,8 @@ div.projectBlock h1 {
 .projectBlock img {
   border-radius: 8px;
   float: left;
-  height: 400px;
   margin-right: 18px;
+  width: 450px;
 }
 
 .comingSoon {
