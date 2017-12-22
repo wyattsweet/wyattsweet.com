@@ -19,6 +19,11 @@ class About extends Component {
       <React.Fragment>
         <Header />
         <main>
+          <h1>About</h1>
+          <h2>
+            Creative, product-focused software engineer striving to build
+            innovative, world-class software on the web.
+          </h2>
           <p>
             Hello! I&apos;m a software engineer in Oakland, CA. I&apos;m
             passionate about JavaScript, React and all things related to
