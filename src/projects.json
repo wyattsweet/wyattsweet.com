@@ -2,20 +2,57 @@
   "projects": [
     {
       "name": "wyattsweet.com",
-      "img_src": "/assets/portfolio/wyattsweet.png",
       "description":
-        "My personal site where I'm collecting information on projects I'm working on and writing about topics I'm interested in."
+        "My personal site where I'm collecting information on projects I'm working on and writing about topics I'm interested in.",
+      "links": [
+        {
+          "text": "wyattsweet.com",
+          "href": "http://www.wyattsweet.com"
+        },
+        {
+          "text": "code",
+          "href": "https://github.com/wyattsweet/wyattsweet.com"
+        }
+      ]
     },
     {
-      "name": "Thredup",
+      "name": "thredUP",
       "img_src": "/assets/portfolio/tup-1.png",
       "description":
-        "As a Software Engineer at thredUP, I worked on the UI for the company's main site. I worked as part of a fast paced, cross-functional team developing on our large scale, heavily trafficked React/Redux app. I built new features and maintained existing ones. In addition to building new features, I was responsible for fixing cross-browser, cross-device UI bugs and I refactored large sections of legacy code."
+        "As a Software Engineer at thredUP, I worked on the UI for the company's main site. I worked as part of a fast paced, cross-functional team developing on our large scale, heavily trafficked React/Redux app. I built new features and maintained existing ones. In addition to building new features, I was responsible for fixing cross-browser, cross-device UI bugs and I refactored large sections of legacy code.",
+        "links": [
+          {
+            "text": "homepage",
+            "href": "https://www.thredup.com"
+          }
+        ]
     },
     {
       "name": "Salesforce",
       "img_src": "/assets/portfolio/desk.png",
-      "description": "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code to help customers migrate their data over to the desk.com platform. I solved a variety of technical issues related to front and back end code and I utilized HTML, CSS and JavaScript to customize Desk support centers for large clients."
+      "description":
+        "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code to help customers migrate their data over to the desk.com platform. I solved a variety of technical issues related to front and back end code and I utilized HTML, CSS and JavaScript to customize Desk support centers for large clients.",
+        "links": [
+          {
+            "text": "Salesforce",
+            "href": "https://www.salesforce.com"
+          }
+        ]
+    },
+    {
+      "name": "General Assembly",
+      "img_src": "/assets/portfolio/ga/logo.png",
+      "description": "Student in web development immersive program, a 12-week immersive full-time program that prepares students to become full stack web developers. I learned programming fundamentals, front-end development, back-end development, working with teams and product development.",
+      "links": [
+        {
+          "text": "homepage",
+          "href": "https://www.generalassemb.ly"
+        },
+        {
+          "text": "WDI",
+          "href": "https://generalassemb.ly/education/web-development-immersive"
+        }
+      ]
     }
   ]
 }

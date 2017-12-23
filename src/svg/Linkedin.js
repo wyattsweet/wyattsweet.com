@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Linkedin = () => (
-  <a href="https://www.linkedin.com/in/wyattsweet/">
+  <a href="https://www.linkedin.com/in/wyattsweet/" target="blank">
     <svg
       aria-labelledby="simpleicons-linkedin-icon"
       role="img"

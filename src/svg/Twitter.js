@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Twitter = () => (
-  <a href="https://twitter.com/wyattsweet">
+  <a href="https://twitter.com/wyattsweet" target="blank">
     <svg
       aria-labelledby="simpleicons-twitter-icon"
       role="img"

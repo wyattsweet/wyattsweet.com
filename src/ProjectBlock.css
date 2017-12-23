@@ -22,3 +22,11 @@ div.projectBlock h1 {
   text-align: center;
   font-style: italic;
 }
+
+.linkSection {
+  text-align: left;
+}
+
+.linkSection li {
+  display: block;
+}

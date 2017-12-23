@@ -15,3 +15,7 @@
 .socialIconsList a {
   margin: 0 5%;
 }
+
+.footer svg {
+  height: 55px;
+}
