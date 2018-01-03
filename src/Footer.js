@@ -20,7 +20,7 @@ const Footer = () => {
         <span aria-label="coffee" role="img">
           &#x2615;
         </span>{' '}
-        &nbsp;in Oakland, CA.
+        in Oakland, CA.
       </p>
     </div>
   );
