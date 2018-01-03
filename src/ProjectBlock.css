@@ -11,16 +11,29 @@ div.projectBlock h1 {
   text-align: left;
 }
 
-.projectBlock img {
+.highlightBlock {
+  margin-bottom: 80px;
+  overflow: hidden;
+}
+
+.highlightBlock:last-of-type {
+  margin-bottom: 0;
+}
+
+.highlightTitle {
+  margin: 0;
+  text-align: left;
+}
+
+.highlightBlock img {
   border-radius: 8px;
   float: left;
-  margin-right: 18px;
+   margin-right: 18px;
   width: 450px;
 }
 
-.comingSoon {
-  text-align: center;
-  font-style: italic;
+.highlightBlock p {
+  margin: 0;
 }
 
 .linkSection {

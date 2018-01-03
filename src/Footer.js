@@ -15,8 +15,12 @@ const Footer = () => {
         <Twitter />
       </div>
       <p>
-        &copy; Wyatt Sweet 2018. Made with &hearts; and &#x2615; &nbsp;&nbsp;in
-        Oakland, CA. View the source code.
+        <span role="img">&copy;</span> Wyatt Sweet 2018. Made with{' '}
+        <span role="img">&hearts;</span> and{' '}
+        <span aria-label="coffee" role="img">
+          &#x2615;
+        </span>{' '}
+        &nbsp;in Oakland, CA.
       </p>
     </div>
   );

@@ -13,36 +13,78 @@
           "text": "code",
           "href": "https://github.com/wyattsweet/wyattsweet.com"
         }
-      ]
+      ],
+      "highlights": []
     },
     {
       "name": "thredUP",
       "img_src": "/assets/portfolio/tup-1.png",
       "description":
         "As a Software Engineer at thredUP, I worked on the UI for the company's main site. I worked as part of a fast paced, cross-functional team developing on our large scale, heavily trafficked React/Redux app. I built new features and maintained existing ones. In addition to building new features, I was responsible for fixing cross-browser, cross-device UI bugs and I refactored large sections of legacy code.",
-        "links": [
-          {
-            "text": "homepage",
-            "href": "https://www.thredup.com"
-          }
-        ]
+      "links": [
+        {
+          "text": "homepage",
+          "href": "https://www.thredup.com"
+        }
+      ],
+      "highlights": [
+        {
+          "img_src": "/assets/portfolio/thredup/favorites.png",
+          "text": "I contributed to the React components, HTML and CSS for the favorites feature which allows users to save their favorite items on the site.",
+          "title": "Favorites"
+        },
+        {
+          "img_src": "/assets/portfolio/thredup/dtb.png",
+          "text": "Built many of the interactive UI components for the Dressing Room page. Collaborated with the product and design teams on the direction, look and feel of the different elements.",
+          "title": "Dressing Room Page"
+        },
+        {
+          "img_src": "/assets/portfolio/thredup/reserved_item_filter.png",
+          "text": "Built a filter button for which leverages a 3rd party search service to show additional relevant items to the user",
+          "title": "Search Results Page Filter"
+        }
+      ]
     },
     {
       "name": "Salesforce",
       "img_src": "/assets/portfolio/desk.png",
       "description":
-        "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code to help customers migrate their data over to the desk.com platform. I solved a variety of technical issues related to front and back end code and I utilized HTML, CSS and JavaScript to customize Desk support centers for large clients.",
-        "links": [
-          {
-            "text": "Salesforce",
-            "href": "https://www.salesforce.com"
-          }
-        ]
+        "At Salesforce, I built and worked on a number of full-stack applications for both internal and external use. I wrote custom ruby code, became intimately acquainted with a number of APIs, heavily relied on active record and mongoDB to help customers migrate their data over to the desk.com platform. I solved a variety of technical issues related to front and back end code and I utilized HTML, CSS, and JavaScript to customize Desk support centers for large clients.",
+      "links": [
+        {
+          "text": "Salesforce",
+          "href": "https://www.salesforce.com"
+        },
+        {
+          "text": "Desk.com"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Custom Internal Apps",
+          "text": "The needs of the team extended beyond what was achievable programmatically through APIs. I solved this by building a tool which achieved the same result utilizing PhantomJS to automate the task."
+        },
+        {
+          "title": "Migration Tool",
+          "text": "Worked on the core team for an open source tool which helped customers migrate their data from desk.com into Salesforce Service Cloud."
+        },
+        {
+          "title": "Custom Branding",
+          "text": "I worked with customers to build custom fully interactive support center pages based on their designs.",
+          "img_src": "/assets/portfolio/salesforce/branding_1.png"
+        },
+        {
+          "title": "Data Migrations",
+          "text": "Wrote custom Ruby scripts to successfully migrate large amounts of customer data into the desk.com platform. We leveraged a number of internal and 3rd party APIs as well as MongoDB and Active Record.",
+          "img_src": "/assets/portfolio/salesforce/migration_2.png"
+        }
+      ]
     },
     {
       "name": "General Assembly",
       "img_src": "/assets/portfolio/ga/logo.png",
-      "description": "Student in web development immersive program, a 12-week immersive full-time program that prepares students to become full stack web developers. I learned programming fundamentals, front-end development, back-end development, working with teams and product development.",
+      "description":
+        "Student in web development immersive program, a 12-week immersive full-time program that prepares students to become full stack web developers. I learned programming fundamentals, front-end development, back-end development, working with teams and product development.",
       "links": [
         {
           "text": "homepage",
@@ -51,6 +93,27 @@
         {
           "text": "WDI",
           "href": "https://generalassemb.ly/education/web-development-immersive"
+        }
+      ],
+      "highlights": [
+        {
+          "title": "Teaching Assistant",
+          "text": "Assisted Web Development Immersive students with their projects and homework assignments."
+        },
+        {
+          "title": "Spaced",
+          "text": "Spaced was an app designed to simplify the process of finding event space in a city. Users can search different venues on a map or add a new space. This app was built with Node.js, ExpressJS, Bootstrap, jQuery, Google Maps and Geolocation APIs.",
+          "img_src": "/assets/portfolio/ga/spaced.jpeg"
+        },
+        {
+          "title": "Roast Review",
+          "text": "Roast Review was designed to allow coffee enthusiasts to discover and review great coffee in San Francisco. This app was built with Ruby on Rails. My responsibilities included testing, front end design as well as building out user login and sessions.",
+          "img_src": "/assets/portfolio/ga/roast_review.jpeg"
+        },
+        {
+          "title": "Album Wishlist",
+          "text": "One of the very first apps I ever built. Inspired by my love of collecting records, Album Wishlist allows music enthusiasts to search for albums they want to collect, get information on the release, and add them to their own personal list.",
+          "img_src": "/assets/portfolio/ga/album_wishlist.jpeg"
         }
       ]
     }

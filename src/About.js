@@ -33,9 +33,15 @@ class About extends Component {
             stuff.
           </p>
           <p>
-            In addition to coding I&apos;m a family man, music enthusiast and a
-            home improvement expert. If you would like to see me resume, you can
-            find it <a href="/assets/wsweet_resume.pdf">right here</a>.
+            In addition to coding I&apos;m a family man,{' '}
+            <a href="https://www.discogs.com/user/wyattsweet/collection">
+              music enthusiast
+            </a>,{' '}
+            <a href="https://www.goodreads.com/user/show/40339940-wyatt-sweet">
+              active reader
+            </a>, and a home improvement expert. If you would like to see me
+            resume, you can find it{' '}
+            <a href="/assets/wsweet_resume.pdf">right here</a>.
           </p>
           <div className="techIconBlock">
             <Html />
