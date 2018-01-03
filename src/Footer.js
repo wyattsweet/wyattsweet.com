@@ -13,7 +13,11 @@ const Footer = () => {
         <GithubSvg />
         <Linkedin />
         <Twitter />
-    </div>
+      </div>
+      <p>
+        &copy; Wyatt Sweet 2018. Made with &hearts; and &#x2615; &nbsp;&nbsp;in
+        Oakland, CA. View the source code.
+      </p>
     </div>
   );
 };
