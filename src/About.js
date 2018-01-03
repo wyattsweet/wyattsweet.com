@@ -22,7 +22,7 @@ class About extends Component {
           <h1>About</h1>
           <h2>
             Creative, product-focused software engineer striving to build
-            innovative, world-class software on the web.
+            innovative, world-class applications on the web.
           </h2>
           <p>
             Hello! I&apos;m a software engineer in Oakland, CA. I&apos;m
