@@ -42,7 +42,9 @@ class About extends Component {
               active reader
             </a>, and a home improvement expert. If you would like to see me
             resume, you can find it{' '}
-            <a href="/assets/wsweet_resume.pdf">right here</a>.
+            <a href="https://github.com/wyattsweet/wyattsweet.com/blob/master/public/assets/wsweet_resume.pdf">
+              right here
+            </a>.
           </p>
           <div className="techIconBlock">
             <Html />
