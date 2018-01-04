@@ -6,6 +6,7 @@ import Footer from './Footer';
 import Css from './svg/Css';
 import Html from './svg/Html';
 import Javascript from './svg/Javascript';
+import Linux from './svg/Linux';
 import Node from './svg/Node';
 import Redux from './svg/Redux';
 import ReactIcon from './svg/React';
@@ -51,6 +52,7 @@ class About extends Component {
             <Redux />
             <Node />
             <Vim />
+            <Linux />
           </div>
         </main>
         <Footer />
