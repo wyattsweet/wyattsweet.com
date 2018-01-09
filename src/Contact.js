@@ -11,8 +11,7 @@ const Contact = () => {
         <h1>Contact</h1>
         <p>
           Please feel free to <a href="mailto:wyattsweet@gmail.com">email me</a>{' '}
-          or reach out to me on social media via the links below. I look forward
-          to chatting!
+          or reach out via social media. I look forward to chatting!
         </p>
       </main>
       <Footer />
