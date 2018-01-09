@@ -25,13 +25,6 @@ div.projectBlock h1 {
   text-align: left;
 }
 
-.highlightBlock img {
-  border-radius: 8px;
-  float: left;
-   margin-right: 18px;
-  width: 450px;
-}
-
 .highlightBlock p {
   margin: 0;
 }

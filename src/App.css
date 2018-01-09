@@ -4,6 +4,7 @@ body {
   background: #efefe6;
   color: #2b2b2b;
   font-family: 'Titillium Web', sans-serif;
+  font-size: 26px;
   margin: 0;
 }
 
@@ -22,6 +23,7 @@ a:hover {
 }
 
 h1 {
+  font-size: 1.5em;
   text-transform: uppercase;
 }
 
@@ -31,11 +33,19 @@ h1, p {
 
 h2 {
   color: #0d0b8c;
+  font-size: 1.2em;
   text-align: left;
 }
 
 h3 {
   text-align: left;
+}
+
+img {
+  border-radius: 8px;
+  float: left;
+  margin-right: 18px;
+  width: 450px;
 }
 
 ul {
@@ -49,13 +59,7 @@ li {
   display: inline-block;
 }
 
-header {
-  font-weight: 300;
-  width: 100%;
-}
-
 main {
-  font-size: 26px;
   letter-spacing: -1px;
   margin: 30px auto 0;
   max-width: 1535px;
@@ -84,51 +88,6 @@ svg:hover {
   min-height: calc(100vh - 150px);
 }
 
-.menuList {
-  display: inline-block;
-  vertical-align: bottom;
-}
-
-.nameHeader {
-  display: inline-block;
-  text-align: center;
-}
-
-.name {
-  color: #0d0b8c;
-  font-weight: 600;
-}
-
-.last {
-  margin: -16px 0 -8px;
-}
-
-.title {
-  color: #f46127; 
-}
-
-a.menuItem {
-  border-bottom: 3px solid #a3a3a3;
-  color: #2b2b2b;
-  display: inline-block;
-  font-size: 36px;
-  font-weight: 600;
-  margin-left: 1%;
-}
-
-.menuItem:hover {
-  border-bottom-color: #7c7c7c;
-}
-
-.menuList li {
-  margin-left: 30px;
-  padding: 0 0 5px;
-}
-
-.meImage {
-  border-radius: 20px;
-  width: 210px;
-}
 
 .techIconBlock {
   text-align: left;
@@ -141,4 +100,20 @@ a.menuItem {
 
 .techIconBlock h1 {
   margin-bottom: 35px;
+}
+
+@media (max-width: 728px) {
+  body {
+    font-size: 18px;
+  }
+
+  h2, h3 {
+    text-align: center;
+  }
+
+  img {
+    float: initial;
+    margin: 0;
+    width: 350px;
+  }
 }

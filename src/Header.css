@@ -1,0 +1,53 @@
+header {
+  font-weight: 300;
+  width: 100%;
+}
+
+.menuList {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.nameHeader {
+  display: inline-block;
+  text-align: center;
+}
+
+.name {
+  color: #0d0b8c;
+  font-weight: 600;
+}
+
+.last {
+  margin: -16px 0 -8px;
+}
+
+.title {
+  color: #f46127; 
+  font-size: .8em;
+}
+
+a.menuItem {
+  border-bottom: 3px solid #a3a3a3;
+  color: #2b2b2b;
+  display: inline-block;
+  font-size: 1.4em;
+  font-weight: 600;
+  margin-left: 1%;
+}
+
+.menuItem:hover {
+  border-bottom-color: #7c7c7c;
+}
+
+.menuList li {
+  margin-left: 30px;
+  padding: 0 0 5px;
+}
+
+@media (max-width: 728px) {
+  .nameHeader, 
+  header > .menuList {
+    display: block;
+  }
+}
