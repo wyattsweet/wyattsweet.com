@@ -11,7 +11,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "npm run build && cd build && mv index.html 200.html && surge . --domain www.wyattsweet.com && cd ..",
+    "deploy":
+      "npm run build && cd build && echo '/*    /index.html   200' > _redirects && cd ..",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
