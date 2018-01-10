@@ -23,8 +23,8 @@ header {
 }
 
 .title {
-  color: #f46127; 
-  font-size: .8em;
+  color: #f46127;
+  font-size: 0.8em;
 }
 
 a.menuItem {
@@ -41,13 +41,17 @@ a.menuItem {
 }
 
 .menuList li {
-  margin-left: 30px;
+  margin-left: 1em;
   padding: 0 0 5px;
 }
 
 @media (max-width: 728px) {
-  .nameHeader, 
+  .nameHeader,
   header > .menuList {
     display: block;
+  }
+
+  .menuList li:first-child {
+    margin-left: 0;
   }
 }
