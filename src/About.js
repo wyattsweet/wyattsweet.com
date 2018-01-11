@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, {Component} from 'react';
 
 import Header from './Header';
 import Footer from './Footer';
@@ -26,12 +26,13 @@ class About extends Component {
             innovative, world-class applications on the web.
           </h2>
           <p>
-            Hello! I&apos;m a software engineer in Oakland, CA. I&apos;m
-            passionate about JavaScript, React and all things related to
-            software development on the web. I like writing code that is well
-            tested, performant and maintainable. I&apos;m passionate about
-            delivering beautiful, rich user experiences and building awesome
-            stuff.
+            Hello! I&apos;m a software engineer living in Oakland, CA. I&apos;m
+            passionate about writing high quality code for the web. To me, that
+            means code that is maintainable, declarative, reusable, well tested,
+            performant and secure. I love learning new tools, technologies and
+            coding languages. Then when it comes time to build something, I can
+            use the right tool for the job. I&apos;m passionate about delivering
+            beautiful, rich user experiences, and building awesome stuff.
           </p>
           <p>
             In addition to coding I&apos;m a family man,{' '}
