@@ -28,7 +28,7 @@ class About extends Component {
           <p>
             Hello! I&apos;m a software engineer living in Oakland, CA. More than
             anything, I'm inspired by well crafted, creative products which
-            leverage technology to help people to be more efficient, make their
+            leverage technology to help people be more efficient, make their
             work more enjoyable or enhance their life in someway.
           </p>
           <p>
