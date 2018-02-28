@@ -29,7 +29,7 @@ class About extends Component {
             Hello! I&apos;m a software engineer living in Oakland, CA. More than
             anything, I'm inspired by well crafted, creative products which
             leverage technology to help people be more efficient, make their
-            work more enjoyable or enhance their life in someway.
+            work more enjoyable or enhance their life in some way.
           </p>
           <p>
             I&apos;m passionate about writing high quality code for the web. To
