@@ -1,18 +1,18 @@
-import React, {Component} from 'react';
+import React, {Component} from 'react'
 
-import Header from './Header';
-import Footer from './Footer';
+import Header from './Header'
+import Footer from './Footer'
 
-import Css from './svg/Css';
-import Html from './svg/Html';
-import Javascript from './svg/Javascript';
-import Linux from './svg/Linux';
-import Node from './svg/Node';
-import Redux from './svg/Redux';
-import ReactIcon from './svg/React';
-import Vim from './svg/Vim';
+import Css from './svg/Css'
+import Html from './svg/Html'
+import Javascript from './svg/Javascript'
+import Linux from './svg/Linux'
+import Node from './svg/Node'
+import Redux from './svg/Redux'
+import ReactIcon from './svg/React'
+import Vim from './svg/Vim'
 
-import './About.css';
+import './About.css'
 
 class About extends Component {
   render() {
@@ -27,9 +27,9 @@ class About extends Component {
           </h2>
           <p>
             Hello! I&apos;m a software engineer living in Oakland, CA. More than
-            anything, I&apos;m inspired by companies, products and people that
-            are looking to inspire social change and make a truely positive
-            impact on the world.
+            anything, I'm inspired by well crafted, creative products which
+            leverage technology to help people to be more efficient, make their
+            work more enjoyable or enhance their life in someway.
           </p>
           <p>
             I&apos;m passionate about writing high quality code for the web. To
@@ -41,7 +41,8 @@ class About extends Component {
             awesome stuff.
           </p>
           <p>
-            In addition to coding I&apos;m a family man,{' '}
+            In addition to coding, I love spending time with my family. I'm also
+            a{' '}
             <a href="https://www.discogs.com/user/wyattsweet/collection">
               music enthusiast
             </a>,{' '}
@@ -66,8 +67,8 @@ class About extends Component {
         </main>
         <Footer />
       </React.Fragment>
-    );
+    )
   }
 }
 
-export default About;
+export default About
