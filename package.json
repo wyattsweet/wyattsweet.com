@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.4",
+    "@fortawesome/fontawesome-free-solid": "^5.0.7",
+    "@fortawesome/react-fontawesome": "^0.0.17",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
@@ -11,8 +14,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy":
-      "npm run build && cd build && echo '/*    /index.html   200' > _redirects && cd ..",
+    "deploy": "npm run build && cd build && echo '/*    /index.html   200' > _redirects && cd ..",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }
